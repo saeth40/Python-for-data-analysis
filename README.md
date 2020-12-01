@@ -12,3 +12,5 @@ content
 4. pandas: join, combine, reshape
 
 5. data visualization: Matplotlib, Seaborn
+
+Note: open in Google Colab to view contents in each notebook
