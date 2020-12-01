@@ -11,4 +11,4 @@ content
 
 4. pandas: join, combine, reshape
 
-5 data visualization: Matplotlib, Seaborn
+5. data visualization: Matplotlib, Seaborn
